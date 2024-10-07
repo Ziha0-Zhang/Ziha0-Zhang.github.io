@@ -21,11 +21,11 @@ Welcome to my personal homepage！
 I am Zihao Zhang, a junior undergraduate student at Sichuan University majoring in Computer Science. I expect to graduate in June 2026.
 My research interest includes LLM algorithm，Parameter-Efficient Fine-Tuning（PEFT），Representation learning
 
-
+I am actively seeking Ph.D. programs at U.S. universities for 2026 Fall
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2024.10*: &nbsp;🎉🎉 Our paper DynMoLE has been submitted at ICLR2025
 
 # 📝 Publications 
 
@@ -33,7 +33,11 @@ My research interest includes LLM algorithm，Parameter-Efficient Fine-Tuning（
 <div class='paper-box-text' markdown="1">
 
 [DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism]()
+
 Dengchun Li, Naizheng Wang, *Zihao Zhang*, Haoyang Yin, Lei Duan, Meng Xiao, Yuanchun Zhou, Mingjie Tang
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.12* International Collegiate Programming Contest Asia Regional Contest (Hangzhou) Bronze medal 🥉
@@ -41,7 +45,7 @@ Dengchun Li, Naizheng Wang, *Zihao Zhang*, Haoyang Yin, Lei Duan, Meng Xiao, Yua
 - *2023.11* International Collegiate Programming Contest Asia Regional Contest (Nanjing) Bronze medal 🥉
 
 # 📖 Educations 
-- *2022.09 - 2026.06 (Expected)*,  Computer Science, [Pittsburgh Institute](https://scupi.scu.edu.cn/en/), <img src='images/SCU.png' style='width: 1.2em;'> [Sichuan University](https://www.scu.edu.cn/)
+- *2022.09 - 2026.06 (Expected)*, BEng., Computer Science, [Pittsburgh Institute](https://scupi.scu.edu.cn/en/), <img src='images/SCU.png' style='width: 1.2em;'> [Sichuan University](https://www.scu.edu.cn/)
 
 # 💬 Invited Talks
 
