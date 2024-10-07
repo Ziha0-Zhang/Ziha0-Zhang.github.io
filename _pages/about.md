@@ -27,6 +27,9 @@ My research interest includes LLM algorithm，Parameter-Efficient Fine-Tuning（
 
 **I am actively seeking Ph.D. programs （or onsite Research Assistant）at U.S. universities for 2026 Fall.**
 
+Similarly, I am also looking for onsite summer research programs at U.S. universities for 2025 Summer vacation.
+
+
 # 🔥 News
 
 - *2024.10*: &nbsp;🎉🎉 Our paper DynMoLE has been submitted at ICLR2025
