@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Zihao Zhang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "Ziha0-Zhang/Ziha0-Zhang.github.io.github.io"
+description              : ""
+repository               : "Ziha0-Zhang/Ziha0-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zihao Zhang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/一寸照证件照-原图.png"
+  bio              : "Sichuan University"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Ziha0-Zhang"
   google_plus      :
   keybase          :
   instagram        :
