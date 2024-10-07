@@ -49,9 +49,9 @@ My research interest includes LLM algorithm，Parameter-Efficient Fine-Tuning（
 - *2023.11* 2023 International Collegiate Programming Contest Asia Regional Contest (Nanjing) Bronze medal 🥉
 
 # 📖 Educations 
-- *2022.09 - 2026.06 (Expected)*,  Computer Science, [Pittsburgh Institute](https://scupi.scu.edu.cn/en/), [Sichuan University](https://www.scu.edu.cn/)
+- *2022.09 - 2026.06 (Expected)*,  Computer Science, [Pittsburgh Institute](https://scupi.scu.edu.cn/en/), <img src='images/SCU.png' style='width: 1.2em;'> [Sichuan University](https://www.scu.edu.cn/)
 
 # 💬 Invited Talks
 
 # 💻 Research Internships
-- *2024.07 - now*, [IDs-Lab](https://ids-lab-asia.github.io/), Sichuan University.
+- *2024.07 - now*, <img src='images/ids_lab_logo_name.svg' style='width: 1.2em;'> [IDs-Lab](https://ids-lab-asia.github.io/), Sichuan University.
