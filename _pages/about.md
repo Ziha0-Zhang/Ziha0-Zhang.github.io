@@ -44,16 +44,14 @@ My research interest includes LLM algorithm，Parameter-Efficient Fine-Tuning（
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12* 2023 International Collegiate Programming Contest Asia Regional Contest (Hangzhou) Bronze medal 🥉
+- *2023.11* 2023 China Collegiate Programming Contest (Shenzhen) Bronze medal 🥉
+- *2023.11* 2023 International Collegiate Programming Contest Asia Regional Contest (Nanjing) Bronze medal 🥉
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations 
+- *2022.09 - 2026.06 (Expected)*,  Computer Science, [Pittsburgh Institute](https://scupi.scu.edu.cn/en/), [Sichuan University](https://www.scu.edu.cn/)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research Internships
+- *2024.07 - now*, [IDs-Lab](https://ids-lab-asia.github.io/), Sichuan University.
