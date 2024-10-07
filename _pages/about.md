@@ -44,9 +44,9 @@ My research interest includes LLM algorithm，Parameter-Efficient Fine-Tuning（
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.12* 2023 International Collegiate Programming Contest Asia Regional Contest (Hangzhou) Bronze medal 🥉
-- *2023.11* 2023 China Collegiate Programming Contest (Shenzhen) Bronze medal 🥉
-- *2023.11* 2023 International Collegiate Programming Contest Asia Regional Contest (Nanjing) Bronze medal 🥉
+- *2023.12* International Collegiate Programming Contest Asia Regional Contest (Hangzhou) Bronze medal 🥉
+- *2023.11* China Collegiate Programming Contest (Shenzhen) Bronze medal 🥉
+- *2023.11* International Collegiate Programming Contest Asia Regional Contest (Nanjing) Bronze medal 🥉
 
 # 📖 Educations 
 - *2022.09 - 2026.06 (Expected)*,  Computer Science, [Pittsburgh Institute](https://scupi.scu.edu.cn/en/), <img src='images/SCU.png' style='width: 1.2em;'> [Sichuan University](https://www.scu.edu.cn/)
