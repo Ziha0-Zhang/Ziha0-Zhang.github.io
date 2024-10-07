@@ -34,7 +34,7 @@ I am actively seeking Ph.D. programs at U.S. universities for 2026 Fall
 
 [DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism]()
 
-Dengchun Li, Naizheng Wang, *Zihao Zhang*, Haoyang Yin, Lei Duan, Meng Xiao, Yuanchun Zhou, Mingjie Tang
+Dengchun Li, Naizheng Wang, **Zihao Zhang**, Haoyang Yin, Lei Duan, Meng Xiao, Yuanchun Zhou, Mingjie Tang
 
 </div>
 </div>
