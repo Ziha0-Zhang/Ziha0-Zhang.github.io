@@ -21,7 +21,9 @@ Welcome to my personal homepage！
 
 I am Zihao Zhang, a junior undergraduate student at Sichuan University(Chengdu, China) majoring in Computer Science. I expect to graduate in June 2026. 
 
-I am currently a Research assistant of the [IDs-Lab](https://ids-lab-asia.github.io/), where I work under the supervision of [Prof. Mingjie Tang](https://merlintang.github.io/). My research interest includes LLM algorithm，Parameter-Efficient Fine-Tuning(PEFT)，Representation learning.
+I am currently a research assistant of the [IDs-Lab](https://ids-lab-asia.github.io/), where I work under the supervision of [Prof. Mingjie Tang](https://merlintang.github.io/). 
+
+My research interest includes **LLM Algorithm**，**Parameter-Efficient Fine-Tuning(PEFT)**，**Representation Learning**.
 
 **I am actively seeking Ph.D. programs （or onsite Research Assistant）at U.S. universities for 2026 Fall.**
 
@@ -55,4 +57,4 @@ Dengchun Li, Naizheng Wang, **Zihao Zhang**, Haoyang Yin, Lei Duan, Meng Xiao, Y
 
 
 # 💻 Research Internships
-- *2024.07 - now*, <img src='images/ids_lab_logo_name.svg' style='width: 1.2em;'> [IDs-Lab](https://ids-lab-asia.github.io/), Sichuan University.
+- *2024.07 - now*, Research Assistant at <img src='images/ids_lab_logo_name.svg' style='width: 1.2em;'> [IDs-Lab](https://ids-lab-asia.github.io/), Sichuan University.
