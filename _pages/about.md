@@ -19,16 +19,15 @@ redirect_from:
 
 Welcome to my personal homepage！
 
-I am Zihao Zhang, a junior undergraduate student at Sichuan University majoring in Computer Science. I expect to graduate in June 2026.
+I am Zihao Zhang, a junior undergraduate student at Sichuan University(Chengdu, China) majoring in Computer Science. I expect to graduate in June 2026. 
 
-
-My research interest includes LLM algorithm，Parameter-Efficient Fine-Tuning（PEFT），Representation learning.
-
+I am currently a Research assistant of the [IDs-Lab](https://ids-lab-asia.github.io/), where I work under the supervision of [Prof. Mingjie Tang](https://merlintang.github.io/). My research interest includes LLM algorithm，Parameter-Efficient Fine-Tuning(PEFT)，Representation learning.
 
 **I am actively seeking Ph.D. programs （or onsite Research Assistant）at U.S. universities for 2026 Fall.**
 
 Similarly, I am also looking for onsite summer research programs at U.S. universities for 2025 Summer vacation.
 
+📧 Email me: **zzzzh@stu.scu.edu.cn**
 
 # 🔥 News
 
